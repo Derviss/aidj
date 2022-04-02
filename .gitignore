@@ -1,0 +1,9 @@
+project.tasks.py
+.venv
+.idea
+*pyc
+*__pycache__
+*.sqlite3
+*.env
+.github
+*venv
